@@ -20,6 +20,9 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*QFRce-OnlybDjvWhMX8Y-w.gif" width="600" height="300"/>
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alex1234ilpro&theme=dark&hide_border=true&border_radius=45&locale=it&card_width=500)](https://git.io/streak-stats)
 <!--
 **alex1234ilpro/alex1234ilpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
